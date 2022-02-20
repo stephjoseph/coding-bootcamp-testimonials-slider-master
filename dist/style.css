@@ -791,6 +791,14 @@ Ensure the default browser behavior of the `hidden` attribute.
     margin-left: -8.125rem;
   }
 
+  .xl\:mt-\[164rem\]{
+    margin-top: 164rem;
+  }
+
+  .xl\:mt-\[10\.25rem\]{
+    margin-top: 10.25rem;
+  }
+
   .xl\:block{
     display: block;
   }
