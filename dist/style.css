@@ -599,6 +599,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-radius: 5px;
 }
 
+.rounded-\[28px\]{
+  border-radius: 28px;
+}
+
 .rounded-l-\[28px\]{
   border-top-left-radius: 28px;
   border-bottom-left-radius: 28px;
